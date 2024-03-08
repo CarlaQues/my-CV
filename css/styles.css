@@ -51,6 +51,7 @@ body {
 }
 
 .starfish-text {
-	color:blue
-	font-style:times 
+	color:blue;
+	font-style: "Times New Roman";
 }
+
